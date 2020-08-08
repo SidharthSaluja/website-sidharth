@@ -1,0 +1,30 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: green;
+}
+
+h2{
+  color: blue;
+}
+.logo{
+  text-align: left;
+  width: 48vw;
+}
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+.left, .right {
+  width: 45vw;
+}
+
+img{
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
